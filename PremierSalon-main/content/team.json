@@ -2,30 +2,30 @@
   "stylists": [
     {
       "specialtyColor": "#ffffff",
-      "bio": "Bio goes here — background, how long they've been cutting hair, and what clients can expect in the chair.",
-      "name": "Name here",
+      "bio": "25 years of cutting hair specializing in precision fades and classic men’s cuts with study hand and eye for what actually works for each client who sits  down. - Leaving looking like the best version of yourself",
+      "name": "Jimmy Garcia Estrada ",
       "slug": "owner",
       "roleColor": "#C9A24C",
-      "phoneTel": "+19135550142",
-      "phone": "(913) 555-0142",
-      "photo": "",
+      "phoneTel": "+19132065337",
+      "phone": "(913) 206-5337",
+      "photo": "/images/img_0403.jpeg",
       "phoneColor": "#ffffff",
       "role": "Owner & Stylist",
       "nameColor": "#ffffff",
       "links": [
         {
-          "label": "Book with me",
-          "labelColor": "#d21f1f",
-          "url": "https://calendly.com/runkaidan/30min?month=2026-09"
+          "label": "Facebook",
+          "labelColor": "#ffffff",
+          "url": "https://www.facebook.com/share/1CGj7bjNg3/?mibextid=wwXIfr"
         },
         {
           "label": "Instagram",
-          "labelColor": "#18c36a",
-          "url": "https://www.instagram.com/aidan_runk?stkn=ZG5uMDBpMnpjZ3Bz&utm_source=qr"
+          "labelColor": "#ffffff",
+          "url": "https://www.instagram.com/jmmygarciaestrada?stkn=a3cyMWhydXJyZ3pp&utm_source=qr"
         }
       ],
       "bioColor": "#ffffff",
-      "specialty": "Specializes in — fades, color, and classic cuts"
+      "specialty": "Specializes in — fades,cuts, highlights ,beards, "
     },
     {
       "specialtyColor": "#ffffff",
