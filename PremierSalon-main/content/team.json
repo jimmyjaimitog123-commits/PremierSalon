@@ -1,0 +1,85 @@
+{
+  "stylists": [
+    {
+      "specialtyColor": "#ffffff",
+      "bio": "Bio goes here — background, how long they've been cutting hair, and what clients can expect in the chair.",
+      "name": "Name here",
+      "slug": "owner",
+      "roleColor": "#C9A24C",
+      "phoneTel": "+19135550142",
+      "phone": "(913) 555-0142",
+      "photo": "",
+      "phoneColor": "#ffffff",
+      "role": "Owner & Stylist",
+      "nameColor": "#ffffff",
+      "links": [
+        {
+          "label": "Book with me",
+          "labelColor": "#d21f1f",
+          "url": "https://calendly.com/runkaidan/30min?month=2026-09"
+        },
+        {
+          "label": "Instagram",
+          "labelColor": "#18c36a",
+          "url": "https://www.instagram.com/aidan_runk?stkn=ZG5uMDBpMnpjZ3Bz&utm_source=qr"
+        }
+      ],
+      "bioColor": "#ffffff",
+      "specialty": "Specializes in — fades, color, and classic cuts"
+    },
+    {
+      "specialtyColor": "#ffffff",
+      "bio": "Bio goes here — background, how long they've been cutting hair, and what clients can expect in the chair.",
+      "name": "Name here",
+      "slug": "stylist-2",
+      "roleColor": "#C9A24C",
+      "phoneTel": "+19135550000",
+      "phone": "(913) 555-0000",
+      "photo": "",
+      "phoneColor": "#ffffff",
+      "role": "Stylist",
+      "nameColor": "#ffffff",
+      "links": [
+        {
+          "label": "Book with me",
+          "labelColor": "#ffffff",
+          "url": "#"
+        },
+        {
+          "label": "Instagram",
+          "labelColor": "#ffffff",
+          "url": "#"
+        }
+      ],
+      "bioColor": "#ffffff",
+      "specialty": "Specializes in — add their specialty here"
+    },
+    {
+      "specialtyColor": "#ffffff",
+      "bio": "Bio goes here — background, how long they've been cutting hair, and what clients can expect in the chair.",
+      "name": "Name here",
+      "slug": "stylist-3",
+      "roleColor": "#C9A24C",
+      "phoneTel": "+19135550000",
+      "phone": "(913) 555-0000",
+      "photo": "",
+      "role": "Stylist",
+      "nameColor": "#ffffff",
+      "links": [
+        {
+          "label": "Book with me",
+          "labelColor": "#ffffff",
+          "url": "#"
+        },
+        {
+          "label": "Instagram",
+          "labelColor": "#ffffff",
+          "url": "#"
+        }
+      ],
+      "bioColor": "#ffffff",
+      "specialty": "Specializes in — add their specialty here"
+    }
+  ],
+  "intro": "Everyone at Premier Salon books their own clients directly — reach out to whoever you'd like to sit with."
+}
