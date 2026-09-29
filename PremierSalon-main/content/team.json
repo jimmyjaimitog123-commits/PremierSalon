@@ -29,15 +29,15 @@
     },
     {
       "specialtyColor": "#ffffff",
-      "bio": "Bio goes here — background, how long they've been cutting hair, and what clients can expect in the chair.",
-      "name": "Name here",
-      "slug": "stylist-2",
+      "bio": "Specializing in men’s boys cuts and fades ",
+      "name": "Wyatt ",
+      "slug": "Barber ",
       "roleColor": "#C9A24C",
-      "phoneTel": "+19135550000",
-      "phone": "(913) 555-0000",
-      "photo": "",
+      "phoneTel": "913-263-4479",
+      "phone": "(913) 206-5337 ",
+      "photo": "/images/img_9086.jpeg",
       "phoneColor": "#ffffff",
-      "role": "Stylist",
+      "role": "Stylist, Barber ",
       "nameColor": "#ffffff",
       "links": [
         {
@@ -52,17 +52,17 @@
         }
       ],
       "bioColor": "#ffffff",
-      "specialty": "Specializes in — add their specialty here"
+      "specialty": "Specializes in men’s boys barber cuts "
     },
     {
       "specialtyColor": "#ffffff",
-      "bio": "Bio goes here — background, how long they've been cutting hair, and what clients can expect in the chair.",
-      "name": "Name here",
-      "slug": "stylist-3",
+      "bio": "Love passion of hair for many years of experience, Cuts , styles, color , ",
+      "name": "Amy ",
+      "slug": "Stylist ",
       "roleColor": "#C9A24C",
-      "phoneTel": "+19135550000",
-      "phone": "(913) 555-0000",
-      "photo": "",
+      "phoneTel": "913-486-4018",
+      "phone": "913-206-5337",
+      "photo": "/images/IMG_0528.jpg",
       "role": "Stylist",
       "nameColor": "#ffffff",
       "links": [
@@ -78,7 +78,49 @@
         }
       ],
       "bioColor": "#ffffff",
-      "specialty": "Specializes in — add their specialty here"
+      "specialty": "Specializing in all color cuts styling "
+    },
+    {
+      "specialtyColor": "#6E695F",
+      "bio": "behind the chair for 11 years, full transformations are my desire balayage, highlights, full color and cut. Overall rounded in haircuts, long, short, pixie, curly, boys and men kids are always welcome. ...... ",
+      "name": "Amanda ",
+      "slug": "Stylist ",
+      "roleColor": "#C9A24C",
+      "phoneTel": "316-339-5328",
+      "phone": "913-206-5337",
+      "photo": "/images/img_20260808_152203.jpeg",
+      "role": "Stylist",
+      "nameColor": "#121110",
+      "bioColor": "#6E695F",
+      "specialty": "Specializing in cuts , color , styles "
+    },
+    {
+      "specialtyColor": "#6E695F",
+      "bio": "Been specializing for 30yrs and loving the art of hair ",
+      "name": "Cathy ",
+      "slug": "Styiist ",
+      "roleColor": "#C9A24C",
+      "phoneTel": "816- 731-0578",
+      "phone": "913-206-5337",
+      "photo": "/images/img_20260803_142830.jpeg",
+      "role": "Stylist",
+      "nameColor": "#121110",
+      "bioColor": "#6E695F",
+      "specialty": "Specializing in all types of cuts and color , women girls men’s boys "
+    },
+    {
+      "specialtyColor": "#6E695F",
+      "bio": "Specializing over 20 years in women, girls , Men’s , boys cuts fades , ",
+      "name": "Milana ",
+      "slug": "Stylist barber ",
+      "roleColor": "#C9A24C",
+      "phoneTel": "561- 767-7958",
+      "phone": "913-206-5337",
+      "photo": "/images/img_9132.jpeg",
+      "role": "Stylist",
+      "nameColor": "#121110",
+      "bioColor": "#6E695F",
+      "specialty": "Specializing in Cuts color  ,women , girls.,boys and men , Fades , Styling, "
     }
   ],
   "intro": "Everyone at Premier Salon books their own clients directly — reach out to whoever you'd like to sit with."
