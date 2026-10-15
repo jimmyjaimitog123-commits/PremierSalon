@@ -25,102 +25,98 @@
         }
       ],
       "bioColor": "#ffffff",
-      "specialty": "Specializes in — fades,cuts, highlights ,beards, "
+      "specialty": "Specializes in — fades, cuts, highlights & beards, "
     },
     {
       "specialtyColor": "#ffffff",
-      "bio": "Specializing in men’s boys cuts and fades ",
-      "name": "Wyatt ",
+      "bio": "Experienced Barber, love to do new trends and have a positive environment. ",
+      "name": "Wyatt",
       "slug": "Wyatt",
       "roleColor": "#C9A24C",
-      "phoneTel": "913-263-4479",
-      "phone": "(913) 206-5337 ",
-      "photo": "/images/img_9086.jpeg",
+      "phoneTel": "+19132634479",
+      "phone": "913-263-4479",
+      "photo": "/images/3.png",
       "phoneColor": "#ffffff",
       "role": "Stylist, Barber ",
       "nameColor": "#ffffff",
-      "links": [
-        {
-          "label": "Book with me",
-          "labelColor": "#ffffff",
-          "url": "#"
-        },
-        {
-          "label": "Instagram",
-          "labelColor": "#ffffff",
-          "url": "#"
-        }
-      ],
+      "links": [],
       "bioColor": "#ffffff",
-      "specialty": "Specializes in men’s boys barber cuts "
+      "specialty": "Specializes in Men's and Boys Cuts "
     },
     {
       "specialtyColor": "#ffffff",
-      "bio": "Love passion of hair for many years of experience, Cuts , styles, color , ",
+      "bio": "Love passion for hair with many years of experience -  Cuts, Styles and Color ",
       "name": "Amy ",
       "slug": "Amy ",
       "roleColor": "#C9A24C",
-      "phoneTel": "913-486-4018",
-      "phone": "913-206-5337",
+      "phoneTel": "+19134864018",
+      "phone": "913-486-4018",
       "photo": "/images/IMG_0528.jpg",
+      "phoneColor": "#ffffff",
       "role": "Stylist",
       "nameColor": "#ffffff",
       "links": [
         {
-          "label": "Book with me",
+          "label": "Facebook",
           "labelColor": "#ffffff",
-          "url": "#"
-        },
-        {
-          "label": "Instagram",
-          "labelColor": "#ffffff",
-          "url": "#"
+          "url": "#https://www.facebook.com/people/Amy-Seward/pfbid0bP3jLh2AE5um8ib4qzuX1w4qap92qS41AnPGBJaydYkvkZZiQph5LwdaSeaWjXRml/?mibextid=wwXIfr&rdid=T3vtIgvp0PsW4blr&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Dt1o94nwj%2F%3Fmibextid%3DwwXIfr"
         }
       ],
       "bioColor": "#ffffff",
-      "specialty": "Specializing in all color cuts styling "
+      "specialty": "Specializing in all color, cuts and styling "
     },
     {
-      "specialtyColor": "#6E695F",
-      "bio": "behind the chair for 11 years, full transformations are my desire balayage, highlights, full color and cut. Overall rounded in haircuts, long, short, pixie, curly, boys and men kids are always welcome. ...... ",
+      "specialtyColor": "#ffffff",
+      "bio": "Behind the chair for 11 years, full transformations are my desire balayage, highlights, full color and cut. Overall rounded in haircuts, long, short, pixie, curly, boys and men kids are always welcome.",
       "name": "Amanda ",
       "slug": "Amanda ",
       "roleColor": "#C9A24C",
-      "phoneTel": "316-339-5328",
-      "phone": "913-206-5337",
-      "photo": "/images/img_20260808_152203.jpeg",
+      "phoneTel": "+13163395328",
+      "phone": "316-339-5328",
+      "photo": "/images/1.jpg",
+      "phoneColor": "#ffffff",
       "role": "Stylist",
-      "nameColor": "#121110",
-      "bioColor": "#6E695F",
-      "specialty": "Specializing in cuts , color , styles "
+      "nameColor": "#ffffff",
+      "links": [],
+      "bioColor": "#ffffff",
+      "specialty": "Specializing in cuts, color, and styles "
     },
     {
-      "specialtyColor": "#6E695F",
-      "bio": "Been specializing for 30yrs and loving the art of hair ",
-      "name": "Cathy ",
+      "specialtyColor": "#ffffff",
+      "bio": "Been specializing for 30yrs and loving the art of hair - love to make everyone feel positive.",
+      "name": "Kathy",
       "slug": "Kathy ",
       "roleColor": "#C9A24C",
-      "phoneTel": "816- 731-0578",
-      "phone": "913-206-5337",
-      "photo": "/images/img_20260803_142830.jpeg",
+      "phoneTel": "+18167310578",
+      "phone": "816- 731-0578",
+      "photo": "/images/2.jpg",
+      "phoneColor": "#ffffff",
       "role": "Stylist",
-      "nameColor": "#121110",
-      "bioColor": "#6E695F",
-      "specialty": "Specializing in all types of cuts and color , women girls men’s boys "
+      "nameColor": "#ffffff",
+      "bioColor": "#ffffff",
+      "specialty": "Specializing in all types of cuts and color, women girls men’s & boys "
     },
     {
-      "specialtyColor": "#6E695F",
-      "bio": "Specializing over 20 years in women, girls , Men’s , boys cuts fades , ",
+      "specialtyColor": "#ffffff",
+      "bio": "Specializing over 20 years in Women, Girls, Men’s, and Boys - Fades, Color and Trendy Cuts.",
       "name": "Milana ",
       "slug": "Milana ",
       "roleColor": "#C9A24C",
-      "phoneTel": "561- 767-7958",
-      "phone": "913-206-5337",
-      "photo": "/images/img_9132.jpeg",
+      "phoneTel": "+15617677958",
+      "phone": "561- 767-7958",
+      "photo": "/images/4.jpg",
+      "phoneColor": "#ffffff",
       "role": "Stylist",
-      "nameColor": "#121110",
-      "bioColor": "#6E695F",
-      "specialty": "Specializing in Cuts color  ,women , girls.,boys and men , Fades , Styling, "
+      "nameColor": "#ffffff",
+      "links": [
+        {
+          "labelColor": "#ffffff",
+          "url": "https://www.instagram.com/milasha_haircut_ks?xtok=anMxcnl3NzZxc3I2",
+          "label": "Instagram"
+        }
+      ],
+      "bioColor": "#ffffff",
+      "specialty": "Specializing in cuts & color, women, girls, boys and men - Fades & Styling "
     }
   ],
   "intro": "Everyone at Premier Salon books their own clients directly — reach out to whoever you'd like to sit with."
